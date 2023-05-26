@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ARMATUPC
+build_property.RootNamespace = ARMATUPC
+build_property.ProjectDir = C:\Users\Jose\source\repos\ARMATUPC\ARMATUPC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jose\source\repos\ARMATUPC\ARMATUPC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Componentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Carrito/Carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b1xDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Celulares/CLS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsdWxhcmVzXENMUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Componentes/CMPNT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcQ01QTlQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Laptops/LPTS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFwdG9wc1xMUFRTLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Smartwatches/SW.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU21hcnR3YXRjaGVzXFNXLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jose/source/repos/ARMATUPC/ARMATUPC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gllgmpgll9

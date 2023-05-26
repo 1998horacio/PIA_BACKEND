@@ -1,0 +1,73 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tienda de Tecnología - ARMATUPC</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/css/bootstrap.min.css">
+    <style>
+        /* Estilos CSS para el carrito de compras */
+        .carrito {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background-color: #f1f1f1;
+            padding: 10px;
+        }
+
+        .categoria-item {
+            padding: 100px;
+            text-align: center;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .row {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Cabecera de la página -->
+    <div class="carrito">
+        <a href="/Carrito/Carrito">
+            <img src="https://cdn-icons-png.flaticon.com/512/107/107831.png" alt="Carrito de compras" width="30" height="30">
+        </a>
+    </div>
+
+    <!-- Contenido de la página principal -->
+    <div class="container">
+        <h1>Bienvenido a ARMATUPC - Tu tienda de tecnología</h1>
+
+        <div class="row">
+            <div class="categoria-item">
+                <h2>Componentes</h2>
+                <a href="/Componentes/CMPNT">
+                    <img src="https://i.linio.com/p/a51c1111f3d7b14c866170856c098b83-product.webp" alt="Componentes" width="200" height="200">
+                </a>
+            </div>
+            <div class="categoria-item">
+                <h2>Celulares</h2>
+                <a href="/Celulares/CLS">
+                    <img src="https://i.linio.com/p/8961e3005eb3b7bf8e9596c279168ee9-product.webp" alt="Celulares" width="200" height="200">
+                </a>
+            </div>
+            <div class="categoria-item">
+                <h2>Smartwatches</h2>
+                <a href="/Smartwatches/SW">
+                    <img src="https://i.linio.com/p/d8e51b3fc9bb7c998aca1aaefc292195-product.webp" alt="Smartwatches" width="200" height="200">
+                </a>
+            </div>
+            <div class="categoria-item">
+                <h2>Laptops</h2>
+                <a href="/Laptops/LPTS">
+                    <img src="https://i.linio.com/p/9db60bd928d6a1b1e1a509d8ab7a9321-product.webp" alt="Laptops" width="200" height="200">
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
